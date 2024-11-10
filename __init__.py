@@ -1,3 +1,3 @@
-from . import file
-from . import stdio
-from . import sypers
+import file
+import stdio
+import typers
